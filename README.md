@@ -1,7 +1,7 @@
 # Memory Game Project
 My Second project at Misk-Udacity - Front-End Web Developer Nanodegree Program
 
-<img src="#" height="600">
+<img src="screenshot/screenshot1.png" height="600">
 
 ## Original Code 
 https://github.com/udacity/fend-project-memory-game
