@@ -1,0 +1,5 @@
+.deck .card.open {
+    transform: rotateY(180deg);
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
