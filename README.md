@@ -2,6 +2,7 @@
 My Second project at Misk-Udacity - Front-End Web Developer Nanodegree Program
 
 <img src="screenshot/screenshot1.PNG" height="600">
+To view game and play open this link : https://muneera-salah.github.io/Memory-Game-project/
 
 ## Original Code 
 https://github.com/udacity/fend-project-memory-game
